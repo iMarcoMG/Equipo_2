@@ -1,0 +1,7 @@
+Es una estructura en disco o memoria asiciada a una tabla o vista para recuperar informacion más rapido 
+contiene claves creadas a partir de una o más columnas 
+Almacena datos logicamente organizados como una tabla en formato de datos por filas o almacenados en columnas 
+
+
+
+Solo puede haber un clúster ordenan y almacenan filas de acuerdo a los valores de la clave del indice 
